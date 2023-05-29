@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/EtoniaThea/Docs/read"
-	"github.com/EtoniaThea/Docs/create"
+	"github.com/EtoniaThea/GDocs/read"
+	"github.com/EtoniaThea/GDocs/create"
 )
 
 func main() {
